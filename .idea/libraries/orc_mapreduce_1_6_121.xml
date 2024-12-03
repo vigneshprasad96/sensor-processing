@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="orc-mapreduce-1.6.121">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/aaf9d9ec/f5f48383/orc-mapreduce-1.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

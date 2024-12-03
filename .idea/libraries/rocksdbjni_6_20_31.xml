@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rocksdbjni-6.20.31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/cc8b24cc/2be6e91c/rocksdbjni-6.20.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

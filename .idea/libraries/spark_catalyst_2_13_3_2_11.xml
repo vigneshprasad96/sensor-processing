@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-catalyst_2.13-3.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/3e1f8b49/fca6c6cd/spark-catalyst_2.13-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-compiler-3.0.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/f4bb18db/c1fb197b/commons-compiler-3.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

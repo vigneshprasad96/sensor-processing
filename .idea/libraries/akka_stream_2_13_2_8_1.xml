@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="akka-stream_2.13-2.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/b4cd6b84/32f09fb3/akka-stream_2.13-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

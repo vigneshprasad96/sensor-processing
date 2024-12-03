@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-tags_2.13-3.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/06dd3e6c/df39f577/spark-tags_2.13-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

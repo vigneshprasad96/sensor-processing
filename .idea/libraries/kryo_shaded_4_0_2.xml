@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kryo-shaded-4.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/e728966c/dee2ac46/kryo-shaded-4.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

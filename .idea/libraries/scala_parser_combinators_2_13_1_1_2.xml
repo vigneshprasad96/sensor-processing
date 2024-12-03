@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-parser-combinators_2.13-1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/46768d6d/de51ef4b/scala-parser-combinators_2.13-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

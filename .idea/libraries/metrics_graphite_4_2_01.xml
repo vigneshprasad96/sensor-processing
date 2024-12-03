@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="metrics-graphite-4.2.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/170d5f14/f14bd21b/metrics-graphite-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

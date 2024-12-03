@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-compress-1.211">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/a2611f85/1edd89c2/commons-compress-1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

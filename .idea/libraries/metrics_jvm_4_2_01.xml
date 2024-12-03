@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="metrics-jvm-4.2.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/897702aa/3e8ea4a9/metrics-jvm-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

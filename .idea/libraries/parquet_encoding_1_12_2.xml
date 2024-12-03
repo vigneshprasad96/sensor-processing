@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parquet-encoding-1.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/077771b4/ca4616f1/parquet-encoding-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

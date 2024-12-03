@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="janino-3.0.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/63cf875e/17f9b3c5/janino-3.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

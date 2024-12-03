@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javassist-3.25.0-GA1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/af28ba5c/97d79ced/javassist-3.25.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

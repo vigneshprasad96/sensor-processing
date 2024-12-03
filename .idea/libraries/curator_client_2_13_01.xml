@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="curator-client-2.13.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/16df6fed/7c2fb6dc/curator-client-2.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

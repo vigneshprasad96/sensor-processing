@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-client-api-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/2044b58f/81ecd14d/hadoop-client-api-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

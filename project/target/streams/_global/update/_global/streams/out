@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/vigneshprasad96/Documents/GitHub/sensor-processing/project/"), "sensor-processing-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating sensor-processing-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved sensor-processing-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of sensor-processing-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of sensor-processing-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/vigneshprasad96/Documents/GitHub/sensor-processing/project/"), "sensor-processing-build")[0m

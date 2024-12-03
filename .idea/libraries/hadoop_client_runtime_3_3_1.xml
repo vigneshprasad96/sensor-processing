@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-client-runtime-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/c50a30c2/aa684f4b/hadoop-client-runtime-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

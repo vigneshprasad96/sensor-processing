@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-network-common_2.13-3.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/3d39e0ab/01408756/spark-network-common_2.13-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

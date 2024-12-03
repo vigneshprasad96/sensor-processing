@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-parallel-collections_2.13-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/44fdd5eb/4b689269/scala-parallel-collections_2.13-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="avro-mapred-1.10.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/f2df0c44/c4ef6441/avro-mapred-1.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

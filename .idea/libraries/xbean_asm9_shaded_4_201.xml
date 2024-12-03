@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xbean-asm9-shaded-4.201">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/5f085061/37c97945/xbean-asm9-shaded-4.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

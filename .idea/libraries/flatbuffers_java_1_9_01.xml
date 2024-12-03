@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flatbuffers-java-1.9.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/598d42f1/19d18b2d/flatbuffers-java-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

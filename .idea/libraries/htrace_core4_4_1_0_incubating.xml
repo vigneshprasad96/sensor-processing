@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="htrace-core4-4.1.0-incubating">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/0c90f93a/9da30204/htrace-core4-4.1.0-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

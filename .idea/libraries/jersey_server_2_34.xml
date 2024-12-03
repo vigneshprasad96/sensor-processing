@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jersey-server-2.34">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/97e7698e/4ba85cec/jersey-server-2.34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

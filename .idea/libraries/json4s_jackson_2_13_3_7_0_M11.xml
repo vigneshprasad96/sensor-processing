@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="json4s-jackson_2.13-3.7.0-M11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/296e5d84/973e8e66/json4s-jackson_2.13-3.7.0-M11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

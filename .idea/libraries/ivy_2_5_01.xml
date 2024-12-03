@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ivy-2.5.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/2b4cceb6/7b3fc2a6/ivy-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

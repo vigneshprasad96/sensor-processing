@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hk2-api-2.6.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/ea67e11c/6bac4616/hk2-api-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

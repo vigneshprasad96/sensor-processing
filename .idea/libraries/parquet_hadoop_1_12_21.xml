@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parquet-hadoop-1.12.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/b0dabcbb/515c08e9/parquet-hadoop-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

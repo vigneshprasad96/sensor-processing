@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-network-shuffle_2.13-3.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/22e4f1ec/1f76e7b8/spark-network-shuffle_2.13-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

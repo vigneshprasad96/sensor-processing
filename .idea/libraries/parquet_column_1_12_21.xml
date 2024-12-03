@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parquet-column-1.12.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/25aa47fd/239eba48/parquet-column-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

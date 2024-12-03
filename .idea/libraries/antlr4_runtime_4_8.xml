@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="antlr4-runtime-4.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/c51c992e/f944761c/antlr4-runtime-4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

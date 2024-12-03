@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="avro-1.10.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/012e7240/13f7eca8/avro-1.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

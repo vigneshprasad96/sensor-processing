@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="objenesis-2.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/dcb1628a/9428a2ae/objenesis-2.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

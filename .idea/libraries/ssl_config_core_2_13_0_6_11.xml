@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ssl-config-core_2.13-0.6.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/9ccce6c1/c6794a32/ssl-config-core_2.13-0.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

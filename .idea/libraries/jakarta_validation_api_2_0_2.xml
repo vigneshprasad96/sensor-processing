@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jakarta.validation-api-2.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/7b82bd69/d9840d2b/jakarta.validation-api-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

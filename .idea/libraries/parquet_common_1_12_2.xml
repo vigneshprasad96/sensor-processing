@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parquet-common-1.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/28354d44/624898a7/parquet-common-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

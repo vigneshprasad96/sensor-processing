@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="akka-actor_2.13-2.8.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/d0084818/ffcaf3a3/akka-actor_2.13-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

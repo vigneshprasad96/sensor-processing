@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lz4-java-1.7.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/529a6f1f/b9827313/lz4-java-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

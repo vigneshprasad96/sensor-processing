@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="orc-core-1.6.121">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/b5cd1eff/6d20d4d5/orc-core-1.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

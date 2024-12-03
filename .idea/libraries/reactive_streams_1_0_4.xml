@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reactive-streams-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/5459867c/046a10fd/reactive-streams-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

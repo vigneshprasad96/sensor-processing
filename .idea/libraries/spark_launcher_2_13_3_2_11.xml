@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-launcher_2.13-3.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/7181a843/4b6a64f3/spark-launcher_2.13-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

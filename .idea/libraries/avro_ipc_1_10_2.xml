@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="avro-ipc-1.10.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/c712d002/ebc35531/avro-ipc-1.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

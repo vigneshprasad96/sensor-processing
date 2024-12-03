@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-kvstore_2.13-3.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/c28fda64/7a49f226/spark-kvstore_2.13-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

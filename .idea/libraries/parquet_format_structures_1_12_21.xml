@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parquet-format-structures-1.12.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/fcacbbf0/07c2c3d3/parquet-format-structures-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

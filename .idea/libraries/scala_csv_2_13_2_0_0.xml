@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-csv_2.13-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/f2cce3c4/db06280c/scala-csv_2.13-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

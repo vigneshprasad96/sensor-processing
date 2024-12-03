@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hive-storage-api-2.7.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/f2eeab59/6a745dbf/hive-storage-api-2.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

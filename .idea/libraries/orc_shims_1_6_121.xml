@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="orc-shims-1.6.121">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/9b57af4e/77a20eff/orc-shims-1.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,61 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.funsuite.AnyFunSuite[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:2:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.BeforeAndAfterAll[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.{SparkSession, DataFrame}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:6:43: not found: type AnyFunSuite[0m
+[0m[[0m[31merror[0m] [0m[0mclass SensorHumidityProcessorTest extends AnyFunSuite with BeforeAndAfterAll {[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:6:60: not found: type BeforeAndAfterAll[0m
+[0m[[0m[31merror[0m] [0m[0mclass SensorHumidityProcessorTest extends AnyFunSuite with BeforeAndAfterAll {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:7:14: not found: type SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m  var spark: SparkSession = _[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:10:13: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    spark = SparkSession.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:21:21: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def getInputData: DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:30:39: value toDF is not a member of List[(String, String)][0m
+[0m[[0m[31merror[0m] [0m[0m    data.map(row => (row(0), row(1))).toDF("sensor-id", "humidity")[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:34:47: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def processValidData(inputData: DataFrame): DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:34:35: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def processValidData(inputData: DataFrame): DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:45:49: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def processInvalidData(inputData: DataFrame): DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:45:37: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def processInvalidData(inputData: DataFrame): DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:56:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("Test processing of valid data") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:65:52: value toDF is not a member of List[(Any, Any, Any, Any)][0m
+[0m[[0m[31merror[0m] [0m[0m    ).map(row => (row(0), row(1), row(2), row(3))).toDF("sensor-id", "min", "avg", "max")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:71:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("Test processing of NaN/invalid data") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:78:52: value toDF is not a member of List[(Any, Any, Any, Any)][0m
+[0m[[0m[31merror[0m] [0m[0m    ).map(row => (row(0), row(1), row(2), row(3))).toDF("sensor-id", "min", "avg", "max")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:84:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("Test combined result for valid and invalid data") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vigneshprasad96/Documents/GitHub/sensor-processing/test/scala/com/luxoft/sensorstatistics/SensorHumidityProcessor_Test.scala:96:52: value toDF is not a member of List[(Any, Any, Any, Any)][0m
+[0m[[0m[31merror[0m] [0m[0m    ).map(row => (row(0), row(1), row(2), row(3))).toDF("sensor-id", "min", "avg", "max")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m20 errors found[0m

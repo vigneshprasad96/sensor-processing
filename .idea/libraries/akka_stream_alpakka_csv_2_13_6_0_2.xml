@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="akka-stream-alpakka-csv_2.13-6.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_51ecd595/target/0f5eb653/0ba3dd31/akka-stream-alpakka-csv_2.13-6.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

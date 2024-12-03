@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zstd-jni-1.5.0-41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/bg-jobs/sbt_573b87ca/target/331de893/0a87d3df/zstd-jni-1.5.0-4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
